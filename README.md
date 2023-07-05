@@ -4,6 +4,9 @@ Lobe Landing Page
 
 Welcome to the Lobe Landing Page! This practice project showcases my frontend development skills and demonstrates the landing page for a fictional product called "Lobe." Lobe is an innovative software application that uses artificial intelligence to analyze and classify images with incredible accuracy.
 
+#Frontend Practice 
+This a project from frontend practice project. A fully Responsive Landing Page .
+
 Design:
 
 The landing page features a clean and modern design, with a visually appealing layout that immediately captures the attention of visitors. The color scheme is a combination of soothing blues and vibrant accents, creating a professional and engaging look.
